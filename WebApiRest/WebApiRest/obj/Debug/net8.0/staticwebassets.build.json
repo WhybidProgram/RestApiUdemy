@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ib/643WLV9xUULRUdNcdhoTodXlqETjyzOeuW33uiqs=",
+  "Source": "WebApiRest",
+  "BasePath": "_content/WebApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
