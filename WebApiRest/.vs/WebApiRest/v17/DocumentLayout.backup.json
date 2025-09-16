@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\webapirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\webapirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|w:\\restapiudemy\\restapiudemy\\webapirest\\webapirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A24D05EB-96A3-4A44-A33C-7E89EB72041F}|WebApiRest\\WebApiRest.csproj|solutionrelative:webapirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApiRest\\Properties\\launchSettings.json",
-              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApiRest\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-13T17:21:06.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "WebApiRest\\Controllers\\CalculatorController.cs",
-              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "WebApiRest\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAswEYAAABaAAAAAAAAAA==",
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "WebApiRest\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "WebApiRest\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T16:54:39.736Z",
+              "WhenOpened": "2025-09-16T16:10:53.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "WebApiRest\\Model\\Person.cs",
+              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Model\\Person.cs",
+              "RelativeToolTip": "WebApiRest\\Model\\Person.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:08:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiRest",
+              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\WebApiRest.csproj",
+              "RelativeDocumentMoniker": "WebApiRest\\WebApiRest.csproj",
+              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\WebApiRest.csproj",
+              "RelativeToolTip": "WebApiRest\\WebApiRest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T15:58:35.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Program.cs",
               "RelativeDocumentMoniker": "WebApiRest\\Program.cs",
               "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Program.cs",
               "RelativeToolTip": "WebApiRest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:34:11.923Z",
+              "WhenOpened": "2025-09-16T15:53:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiRest\\appsettings.json",
+              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\appsettings.json",
+              "RelativeToolTip": "WebApiRest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T14:59:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "WebApiRest\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "W:\\RestApiUdemy\\RestApiUdemy\\WebApiRest\\WebApiRest\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "WebApiRest\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:57:29.473Z",
               "EditorCaption": ""
             }
           ]
